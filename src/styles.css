@@ -1,0 +1,10 @@
+.onLink:hover {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.navLink:hover {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
